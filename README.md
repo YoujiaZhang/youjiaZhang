@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hi there 👋
+
+A ✨picture✨ is worth a thousand words 😄
 
 <!--
 **YoujiaZhang/youjiaZhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
