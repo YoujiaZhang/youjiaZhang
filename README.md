@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-A ✨picture✨ is worth a thousand words 😄
+A ✨picture✨ is worth a thousand words 😄      
+一张 ✨图✨ 胜过千言万语
 
 <!--
 **YoujiaZhang/youjiaZhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
