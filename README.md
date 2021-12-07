@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-A ✨picture✨ is worth a thousand words 😄      
-一张 ✨图✨ 胜过千言万语
+Sometimes there are some things that we can't express clearly in words.     
+A ✨picture✨ is worth a thousand words 😄    
 
 
 <a href="#nick-title">
