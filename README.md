@@ -8,10 +8,6 @@ A ✨picture✨ is worth a thousand words 😄
     <img src="https://github-readme-stats.vercel.app/api?username=YoujiaZhang&show_icons=true&theme=vue" alt="YoujiaZhang" align="left" />
 </a>
 
-<a href="#nick-title">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoujiaZhang&exclude_repo=dayz_server_mods&hide=xslt&langs_count=10&count_private=true&theme=vue&layout=compact" alt="YoujiaZhang" align="left" />
-</a>
-
 <br align="left"></br>
 <br align="left"></br>
 <br align="left"></br>
